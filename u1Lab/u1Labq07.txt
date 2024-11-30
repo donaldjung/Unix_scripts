@@ -1,0 +1,13 @@
+cd
+mkdir ABC
+cd ABC
+mkdir DEF GHIJ
+cd DEF
+touch f1 f2 f3
+chmod u=x f2
+cd ..
+cd GHIJ
+mkdir KL
+touch f4
+cd
+tree -F ABC/

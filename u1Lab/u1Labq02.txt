@@ -1,0 +1,5 @@
+cd vimLab
+chmod u=rw,g=x myInfo.txt
+cd ..
+chmod u=rwx,g=rx-s u1Lab u2Lab u3Lab vimLab
+ls -l

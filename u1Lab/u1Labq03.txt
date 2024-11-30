@@ -1,0 +1,1 @@
+ls -ld /home/dgjung/cps393/labs/vimLab/myInfo.txt cps393/labs/

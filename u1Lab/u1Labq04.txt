@@ -1,0 +1,2 @@
+drwx--S--- 6 dgjung dgjung 4096 Sep 15 10:51 cps393/labs/
+-rw---x--- 1 dgjung dgjung   91 Sep 15 10:46 /home/dgjung/cps393/labs/vimLab/myInfo.txt

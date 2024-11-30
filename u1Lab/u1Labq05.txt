@@ -1,0 +1,2 @@
+chmod u=rx Inv
+chmod u=r Inv/F.txt

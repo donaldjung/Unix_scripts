@@ -1,0 +1,4 @@
+Assuming question is asking to check F.txt (in dir Inv) from previous question and created L.txt in my home directory for testing, command is executed from the home directory.
+Command below: 
+
+diff <(head -n 3 Inv/F.txt) <(tail -n 3 L.txt)
